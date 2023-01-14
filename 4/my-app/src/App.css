@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+
+.userOneInfo{
+    background-color: #000000;
+    color: #fff;
+}
+
+li{
+    list-style: none;
+}
+
+.btn {
+    background: green;
+    border: none;
+}
+
+
